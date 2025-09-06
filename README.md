@@ -61,14 +61,7 @@
 
 ---
 
-## 🐍 Contribution Graph  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/siimran28/siimran28/output/snake.svg" alt="snake" />
-</p>
-
-
----
 
 ## 📫 Let's Connect  
 
