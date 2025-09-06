@@ -1,4 +1,5 @@
-👋 Hey there, I'm Simran Rai  
+# 👋 Hey there, I'm Simran Rai
+
 💻 Data Science & ML Enthusiast | ☁️ Cloud & Automation | 🌐 Web Developer  
 🚀 Passionate about exploring diverse domains in technology and building impactful solutions.  
 🌟 Open to collaborating on innovative projects and sharing knowledge through e-learning.  
