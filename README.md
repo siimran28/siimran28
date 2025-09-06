@@ -54,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siimran28&show_icons=true&theme=radical" width="48%" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimran28&layout=compact&theme=radical" width="55" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siimran28&layout=compact&theme=radical" width="48" height="180"/>
 </p>
 
  
