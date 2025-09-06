@@ -63,7 +63,10 @@
 
 ## 🐍 Contribution Graph  
 
-![snake gif](https://github.com/siimran28/siimran28/blob/output/github-contribution-grid-snake.svg)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siimran28/siimran28/output/snake.svg" alt="snake" />
+</p>
+
 
 ---
 
