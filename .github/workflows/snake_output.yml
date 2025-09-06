@@ -1,0 +1,29 @@
+name: Generate Snake in Output
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Generate Snake Graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: siimran28
+          outputs: dist/snake.svg
+
+      - name: Push Snake to Output Branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          folder: dist
+          force: true
+          commit-message: "Update snake contribution graph"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
